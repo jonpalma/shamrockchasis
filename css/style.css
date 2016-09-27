@@ -127,6 +127,12 @@ Text Domain: Mixen Communication & Web Technology
 }
 /* END HISTORIA */
 
+/* BEGIN SERVICIOS */
+.servicios .center .logo {
+	width: 75%;
+}
+/* END SERVICIOS */
+
 /* BEGIN GALERIA */
 .galeria {
 	/*padding: 0 15px;*/

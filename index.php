@@ -120,8 +120,11 @@
                             <p>Reparación</p>
                         </div>
                         <div class="col-sm-4 center">
-                            <img src="img/servicios/torco-fuels-logo.png" alt="Torco">
-                            <p style="border:0;width:auto;">Somos distribuidores de Torco Racing Fuel</p>
+                            <img class="logo" src="img/servicios/torco-fuels-logo.png" alt="Torco">
+                            <p style="border:0;width:auto;">
+                                SOMOS DISTRIBUIDORES EXCLUSIVOS<br />
+                                TORCO RACING FUEL
+                            </p>
                         </div>
                         <div class="col-sm-4 center">
                             <img src="img/servicios/construccion.png" alt="construcción">
